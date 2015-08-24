@@ -1,5 +1,4 @@
 *.png
-!*.otsu.png
 *.uzn
 *greek.xml
 *.tesseract.xml
