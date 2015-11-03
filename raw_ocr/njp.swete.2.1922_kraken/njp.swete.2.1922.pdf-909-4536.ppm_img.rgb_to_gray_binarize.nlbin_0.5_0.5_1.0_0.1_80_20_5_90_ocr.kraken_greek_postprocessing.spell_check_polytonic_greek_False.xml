@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>njp.swete.2.1922.pdf-909-4536.ppm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>kraken</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="1352" lry="2176" ulx="0" uly="0">
+      <graphic url="ad5737cd-6408-4cc4-9674-388cbc098afa/njp.swete.2.1922.pdf-909-4536.ppm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png"/>
+      <zone/>
+      <line lrx="1352" lry="2171" ulx="1351" uly="1251" xml:id="line_0" resp="#resp_0">
+        </line>
+      <line lrx="1352" lry="2111" ulx="1318" uly="1133" xml:id="line_1" resp="#resp_0">
+        </line>
+    </surface>
+  </sourceDoc>
+</TEI>

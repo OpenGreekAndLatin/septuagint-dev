@@ -1,0 +1,291 @@
+[2015-10-30 05:21:04,681: WARNING/MainProcess] worker@omega016 ready.
+[2015-10-30 05:56:34,679: WARNING/Worker-35] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/binarization.py:64: RuntimeWarning: divide by zero encountered in true_divide
+  flat /= (hi-lo)
+[2015-10-30 05:56:34,680: WARNING/Worker-35] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/binarization.py:64: RuntimeWarning: invalid value encountered in true_divide
+  flat /= (hi-lo)
+[2015-10-30 05:56:34,693: WARNING/Worker-35] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/binarization.py:66: RuntimeWarning: invalid value encountered in greater
+  bin = np.array(255*(flat > threshold), 'B')
+[2015-10-30 05:56:40,067: WARNING/Worker-36] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:58:12,163: WARNING/Worker-33] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:58:24,817: WARNING/Worker-27] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:58:39,454: WARNING/Worker-1] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:58:55,667: WARNING/Worker-28] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:59:13,533: WARNING/Worker-13] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:59:16,867: WARNING/Worker-22] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:59:20,107: WARNING/Worker-32] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:59:30,105: WARNING/Worker-24] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:59:43,744: WARNING/Worker-4] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:59:45,347: WARNING/Worker-23] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 05:59:59,247: WARNING/Worker-9] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:01,937: WARNING/Worker-11] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:05,099: WARNING/Worker-29] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:09,827: WARNING/Worker-19] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:14,872: WARNING/Worker-35] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:18,327: WARNING/Worker-18] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:21,267: WARNING/Worker-2] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:25,283: WARNING/Worker-14] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:30,107: WARNING/Worker-31] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:32,386: WARNING/Worker-38] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:33,716: WARNING/Worker-16] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:37,847: WARNING/Worker-15] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:43,285: WARNING/Worker-34] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:46,046: WARNING/Worker-12] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:49,075: WARNING/Worker-20] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:00:56,067: WARNING/Worker-7] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:01:00,273: WARNING/Worker-25] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:01:02,557: WARNING/Worker-3] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:01:03,197: WARNING/Worker-21] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:01:14,988: WARNING/Worker-40] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:01:38,574: WARNING/Worker-37] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:02:00,197: WARNING/Worker-6] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:02:20,349: WARNING/Worker-17] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:02:29,427: WARNING/Worker-30] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:02:41,615: WARNING/Worker-8] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:02:45,427: WARNING/Worker-39] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:03:10,207: WARNING/Worker-5] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:03:32,748: WARNING/Worker-10] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:04:59,979: WARNING/Worker-26] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-10-30 06:29:03,438: ERROR/Worker-35] nidaba.segmentation.tesseract[84f5585b-baf9-4f3b-86ae-aa17212f5a1b]: Tesseract killed by signal: 11
+[2015-10-30 06:29:04,769: ERROR/MainProcess] Task nidaba.segmentation.tesseract[84f5585b-baf9-4f3b-86ae-aa17212f5a1b] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 06:30:57,454: ERROR/Worker-3] nidaba.segmentation.tesseract[0ae708aa-37bc-4330-9b0d-563039a1dc6c]: Tesseract killed by signal: 11
+[2015-10-30 06:31:09,043: ERROR/MainProcess] Task nidaba.segmentation.tesseract[0ae708aa-37bc-4330-9b0d-563039a1dc6c] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 06:31:36,225: ERROR/Worker-12] nidaba.segmentation.tesseract[917707df-38a4-4380-b245-248116612086]: Tesseract killed by signal: 11
+[2015-10-30 06:31:39,039: ERROR/MainProcess] Task nidaba.segmentation.tesseract[917707df-38a4-4380-b245-248116612086] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 07:04:20,784: ERROR/Worker-34] nidaba.segmentation.tesseract[8e52254d-ae1f-4be8-9903-5be301fc1f9f]: Tesseract killed by signal: 11
+[2015-10-30 07:05:31,322: ERROR/MainProcess] Task nidaba.segmentation.tesseract[8e52254d-ae1f-4be8-9903-5be301fc1f9f] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 07:08:25,446: WARNING/Worker-27] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py:91: RuntimeWarning: invalid value encountered in true_divide
+  temp = temp*1.0/np.amax(temp)
+[2015-10-30 07:08:25,457: WARNING/Worker-27] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py:48: RuntimeWarning: invalid value encountered in true_divide
+  line = line * 1.0/np.amax(line)
+[2015-10-30 07:08:25,526: ERROR/Worker-27] nidaba.ocr.kraken[d91b44a0-f4bc-49e5-bc1a-cd71a30d2978]: 
+[2015-10-30 07:08:28,184: ERROR/MainProcess] Task nidaba.ocr.kraken[d91b44a0-f4bc-49e5-bc1a-cd71a30d2978] raised unexpected: AssertionError()
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 216, in forward
+    assert not np.isnan(self.output[:n]).any()
+AssertionError
+[2015-10-30 07:08:40,866: ERROR/Worker-18] nidaba.segmentation.tesseract[b5958404-c72f-4af4-b1b6-16fbdd4210e2]: Tesseract killed by signal: 11
+[2015-10-30 07:08:49,596: ERROR/MainProcess] Task nidaba.segmentation.tesseract[b5958404-c72f-4af4-b1b6-16fbdd4210e2] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 07:13:01,427: ERROR/Worker-16] nidaba.segmentation.tesseract[d6aa26b5-7571-4929-ab10-0bdf6694acb8]: Tesseract killed by signal: 11
+[2015-10-30 07:13:04,851: ERROR/MainProcess] Task nidaba.segmentation.tesseract[d6aa26b5-7571-4929-ab10-0bdf6694acb8] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 07:43:29,386: WARNING/Worker-1] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py:91: RuntimeWarning: invalid value encountered in true_divide
+  temp = temp*1.0/np.amax(temp)
+[2015-10-30 07:43:29,397: WARNING/Worker-1] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py:48: RuntimeWarning: invalid value encountered in true_divide
+  line = line * 1.0/np.amax(line)
+[2015-10-30 07:43:29,475: ERROR/Worker-1] nidaba.ocr.kraken[0d042f40-99fe-44a8-a2af-563c5a07e841]: 
+[2015-10-30 07:43:36,331: ERROR/MainProcess] Task nidaba.ocr.kraken[0d042f40-99fe-44a8-a2af-563c5a07e841] raised unexpected: AssertionError()
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 216, in forward
+    assert not np.isnan(self.output[:n]).any()
+AssertionError
+[2015-10-30 09:11:23,903: WARNING/Worker-9] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py:91: RuntimeWarning: invalid value encountered in true_divide
+  temp = temp*1.0/np.amax(temp)
+[2015-10-30 09:11:23,945: WARNING/Worker-9] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py:48: RuntimeWarning: invalid value encountered in true_divide
+  line = line * 1.0/np.amax(line)
+[2015-10-30 09:11:25,129: ERROR/Worker-9] nidaba.ocr.kraken[f4241839-917f-4ab2-b210-a919a49e7d60]: 
+[2015-10-30 09:11:27,904: ERROR/MainProcess] Task nidaba.ocr.kraken[f4241839-917f-4ab2-b210-a919a49e7d60] raised unexpected: AssertionError()
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 216, in forward
+    assert not np.isnan(self.output[:n]).any()
+AssertionError
+[2015-10-30 09:12:18,876: WARNING/Worker-29] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py:91: RuntimeWarning: invalid value encountered in true_divide
+  temp = temp*1.0/np.amax(temp)
+[2015-10-30 09:12:18,879: WARNING/Worker-29] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py:48: RuntimeWarning: invalid value encountered in true_divide
+  line = line * 1.0/np.amax(line)
+[2015-10-30 09:12:18,910: ERROR/Worker-29] nidaba.ocr.kraken[7d245753-8620-4669-aaf3-b01b09354572]: 
+[2015-10-30 09:12:31,749: ERROR/MainProcess] Task nidaba.ocr.kraken[7d245753-8620-4669-aaf3-b01b09354572] raised unexpected: AssertionError()
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 216, in forward
+    assert not np.isnan(self.output[:n]).any()
+AssertionError
+[2015-10-30 09:32:49,874: ERROR/Worker-35] nidaba.ocr.kraken[fe64fe26-5292-41df-a4c0-9802cea55502]: tile cannot extend outside image
+[2015-10-30 09:32:51,871: ERROR/MainProcess] Task nidaba.ocr.kraken[fe64fe26-5292-41df-a4c0-9802cea55502] raised unexpected: SystemError('tile cannot extend outside image',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 127, in rpred
+    box = dewarp(lnorm, box)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 89, in dewarp
+    line = pil2array(im)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/util.py", line 18, in pil2array
+    a = np.fromstring(im.tobytes(), 'B')
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/PIL/Image.py", line 669, in tobytes
+    e.setimage(self.im)
+SystemError: tile cannot extend outside image

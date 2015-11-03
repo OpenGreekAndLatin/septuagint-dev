@@ -1,0 +1,325 @@
+[2015-10-30 05:21:04,740: WARNING/MainProcess] worker@omega010 ready.
+[2015-10-30 07:00:56,507: ERROR/Worker-15] nidaba.segmentation.tesseract[12854aa6-66c9-40d2-8469-8e08f611f220]: Tesseract killed by signal: 11
+[2015-10-30 07:01:16,225: ERROR/MainProcess] Task nidaba.segmentation.tesseract[12854aa6-66c9-40d2-8469-8e08f611f220] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 07:02:41,853: ERROR/Worker-23] nidaba.segmentation.tesseract[b6395ec1-78e4-4165-b6ac-30bb79ca73b7]: Tesseract killed by signal: 11
+[2015-10-30 07:02:53,506: ERROR/MainProcess] Task nidaba.segmentation.tesseract[b6395ec1-78e4-4165-b6ac-30bb79ca73b7] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 07:03:21,344: ERROR/Worker-20] nidaba.segmentation.tesseract[df0d1283-bbc1-41cd-ba51-58260f9a09ff]: Tesseract killed by signal: 11
+[2015-10-30 07:03:23,726: ERROR/MainProcess] Task nidaba.segmentation.tesseract[df0d1283-bbc1-41cd-ba51-58260f9a09ff] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 07:05:16,943: ERROR/Worker-28] nidaba.segmentation.tesseract[93774fca-e447-480f-ba7a-28b29c1ef6f4]: Tesseract killed by signal: 11
+[2015-10-30 07:05:38,095: ERROR/MainProcess] Task nidaba.segmentation.tesseract[93774fca-e447-480f-ba7a-28b29c1ef6f4] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 07:06:22,088: ERROR/Worker-38] nidaba.segmentation.tesseract[40f512c5-82e9-4ee1-9cac-fb3d7cfc57b4]: Tesseract killed by signal: 11
+[2015-10-30 07:07:25,280: ERROR/MainProcess] Task nidaba.segmentation.tesseract[40f512c5-82e9-4ee1-9cac-fb3d7cfc57b4] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 07:11:26,934: ERROR/Worker-4] nidaba.segmentation.tesseract[fa3ac862-406a-4b56-92bf-19344eb1e5de]: Tesseract killed by signal: 11
+[2015-10-30 07:11:31,528: ERROR/MainProcess] Task nidaba.segmentation.tesseract[fa3ac862-406a-4b56-92bf-19344eb1e5de] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 07:15:07,525: ERROR/Worker-2] nidaba.segmentation.tesseract[4a498433-6e5f-477c-b382-59fc348bb40a]: Tesseract killed by signal: 11
+[2015-10-30 07:16:27,765: ERROR/MainProcess] Task nidaba.segmentation.tesseract[4a498433-6e5f-477c-b382-59fc348bb40a] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-10-30 08:07:32,022: WARNING/Worker-3] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py:91: RuntimeWarning: invalid value encountered in true_divide
+  temp = temp*1.0/np.amax(temp)
+[2015-10-30 08:07:32,031: WARNING/Worker-3] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py:48: RuntimeWarning: invalid value encountered in true_divide
+  line = line * 1.0/np.amax(line)
+[2015-10-30 08:07:32,094: ERROR/Worker-3] nidaba.ocr.kraken[5a5967b7-f81a-4877-b207-0c079642995d]: 
+[2015-10-30 08:07:39,533: ERROR/MainProcess] Task nidaba.ocr.kraken[5a5967b7-f81a-4877-b207-0c079642995d] raised unexpected: AssertionError()
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 216, in forward
+    assert not np.isnan(self.output[:n]).any()
+AssertionError
+[2015-10-30 09:31:01,971: ERROR/Worker-29] nidaba.ocr.kraken[b0e3cef8-9c80-4b55-b712-0028235fef0b]: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:31:06,287: ERROR/MainProcess] Task nidaba.ocr.kraken[b0e3cef8-9c80-4b55-b712-0028235fef0b] raised unexpected: IndexError('index 5000 is out of bounds for axis 0 with size 5000',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 196, in forward
+    self.source[t,0] = 1
+IndexError: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:38:07,557: ERROR/Worker-2] nidaba.ocr.kraken[d6131f13-33d6-49b2-8dea-83cb54121485]: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:38:10,837: ERROR/MainProcess] Task nidaba.ocr.kraken[d6131f13-33d6-49b2-8dea-83cb54121485] raised unexpected: IndexError('index 5000 is out of bounds for axis 0 with size 5000',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 196, in forward
+    self.source[t,0] = 1
+IndexError: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:44:19,295: ERROR/Worker-34] nidaba.ocr.kraken[982c0068-1874-4e54-8ca0-12a5fbed180b]: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:44:29,572: ERROR/MainProcess] Task nidaba.ocr.kraken[982c0068-1874-4e54-8ca0-12a5fbed180b] raised unexpected: IndexError('index 5000 is out of bounds for axis 0 with size 5000',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 196, in forward
+    self.source[t,0] = 1
+IndexError: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:45:11,565: ERROR/Worker-38] nidaba.ocr.kraken[37dc87ab-23f3-4ed3-b74b-89e28626eee8]: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:45:20,692: ERROR/MainProcess] Task nidaba.ocr.kraken[37dc87ab-23f3-4ed3-b74b-89e28626eee8] raised unexpected: IndexError('index 5000 is out of bounds for axis 0 with size 5000',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 196, in forward
+    self.source[t,0] = 1
+IndexError: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:49:30,485: ERROR/Worker-37] nidaba.ocr.kraken[ce084724-74e2-4dc9-9d5c-c6f46299c856]: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:49:35,892: ERROR/MainProcess] Task nidaba.ocr.kraken[ce084724-74e2-4dc9-9d5c-c6f46299c856] raised unexpected: IndexError('index 5000 is out of bounds for axis 0 with size 5000',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 196, in forward
+    self.source[t,0] = 1
+IndexError: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:50:17,753: ERROR/Worker-35] nidaba.ocr.kraken[dd2b94fb-914e-43a5-bb4a-81e284e3a1e4]: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:50:20,873: ERROR/MainProcess] Task nidaba.ocr.kraken[dd2b94fb-914e-43a5-bb4a-81e284e3a1e4] raised unexpected: IndexError('index 5000 is out of bounds for axis 0 with size 5000',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 196, in forward
+    self.source[t,0] = 1
+IndexError: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:50:50,688: ERROR/Worker-28] nidaba.ocr.kraken[62159e01-2da0-4cba-a870-bcf94fce41f8]: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:51:12,215: ERROR/MainProcess] Task nidaba.ocr.kraken[62159e01-2da0-4cba-a870-bcf94fce41f8] raised unexpected: IndexError('index 5000 is out of bounds for axis 0 with size 5000',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 196, in forward
+    self.source[t,0] = 1
+IndexError: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:52:26,634: ERROR/Worker-37] nidaba.ocr.kraken[f5db1607-537a-45a4-b6e4-2218341222e8]: float division by zero
+[2015-10-30 09:52:38,667: ERROR/MainProcess] Task nidaba.ocr.kraken[f5db1607-537a-45a4-b6e4-2218341222e8] raised unexpected: ZeroDivisionError('float division by zero',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 127, in rpred
+    box = dewarp(lnorm, box)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 93, in dewarp
+    line = normalizer.normalize(line, cval=np.amax(line))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lineest.py", line 60, in normalize
+    dtype=dtype, cval=cval)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lineest.py", line 13, in scale_to_h
+    scale = target_height*1.0/h
+ZeroDivisionError: float division by zero
+[2015-10-30 09:54:13,284: ERROR/Worker-33] nidaba.ocr.kraken[80523fe3-db8d-4ea6-9868-9ebfbca7ea92]: index 5000 is out of bounds for axis 0 with size 5000
+[2015-10-30 09:54:19,535: ERROR/MainProcess] Task nidaba.ocr.kraken[80523fe3-db8d-4ea6-9868-9ebfbca7ea92] raised unexpected: IndexError('index 5000 is out of bounds for axis 0 with size 5000',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/kraken.py", line 155, in ocr_kraken
+    for rec in rpred.rpred(rnn, img, [(int(x[0]), int(x[1]), int(x[2]), int(x[3])) for x in lines]):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/rpred.py", line 134, in rpred
+    pred = network.predictString(line)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 281, in predictString
+    cs = self.predictSequence(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 273, in predictSequence
+    self.outputs = np.array(self.lstm.forward(xs))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 229, in forward
+    xs = net.forward(xs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 244, in forward
+    outputs = [net.forward(xs) for net in self.nets]
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/lib/lstm.py", line 196, in forward
+    self.source[t,0] = 1
+IndexError: index 5000 is out of bounds for axis 0 with size 5000

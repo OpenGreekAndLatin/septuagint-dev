@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>njp.swete.3.1912.pdf-007-026.ppm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>kraken</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="1383" lry="2190" ulx="0" uly="0">
+      <graphic url="7ad5014d-8105-4cd6-82ac-38dbcb64ac25/njp.swete.3.1912.pdf-007-026.ppm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png"/>
+      <zone/>
+      <line lrx="249" lry="1690" ulx="199" uly="1639" xml:id="line_0" resp="#resp_0">
+        <choice><sic><zone lrx="218" lry="1690" type="segment" ulx="199" uly="1639" xml:id="seg_0" resp="#resp_1"><zone lrx="218" lry="1690" resp="#resp_1" type="grapheme" ulx="199" uly="1639"><seg><g xml:id="grapheme_0" resp="#resp_1">ὐ</g></seg><certainty degree="0.55" locus="value" target="#grapheme_0" resp="#resp_1"/></zone></zone></sic><corr resp="#resp_2">οὐ<certainty degree="0.90" locus="value" resp="#resp_2"/></corr><corr resp="#resp_2">ὒ<certainty degree="0.90" locus="value" resp="#resp_2"/></corr><corr resp="#resp_2">ὔ<certainty degree="0.90" locus="value" resp="#resp_2"/></corr><corr resp="#resp_2">ὖ<certainty degree="0.90" locus="value" resp="#resp_2"/></corr><corr resp="#resp_2">νυ<certainty degree="0.80" locus="value" resp="#resp_2"/></corr><corr resp="#resp_2">τυ<certainty degree="0.80" locus="value" resp="#resp_2"/></corr></choice></line>
+    </surface>
+  </sourceDoc>
+</TEI>

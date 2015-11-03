@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.19 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha005: [1;32mOK[0m
+kraken greek /cluster/tufts/perseus_ocr/nidaba/Swete/tor.swete.2.1891 png 54720 8
+Fr 30. Okt 05:21:03 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+e657f32a-f6f6-4768-90fc-5fd2c4bd07d1
+Fr 30. Okt 20:36:50 EDT 2015

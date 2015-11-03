@@ -1,0 +1,74 @@
+[]
+[1;36mcelery multi v3.1.19 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha005: [1;32mOK[0m
+kraken greek /cluster/tufts/perseus_ocr/nidaba/Swete/swete_2_1891 png 56700 7
+Fr 30. Okt 05:21:03 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+2dc840c1-bda5-4fc3-ba18-efa4f38205b7
+Fr 30. Okt 21:10:14 EDT 2015
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/bin/nidaba", line 11, in <module>
+    sys.exit(main())
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 700, in __call__
+    return self.main(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 680, in main
+    rv = self.invoke(ctx)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 1027, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 873, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 508, in invoke
+    return callback(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/cli.py", line 367, in status
+    batch = SimpleBatch(job_id)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/nidaba.py", line 539, in __init__
+    super(SimpleBatch, self).__init__(id)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/nidaba.py", line 166, in __init__
+    pipe.watch(self.id)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/client.py", line 2601, in watch
+    return self.execute_command('WATCH', *names)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/client.py", line 2394, in execute_command
+    return self.immediate_execute_command(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/client.py", line 2421, in immediate_execute_command
+    conn.send_command(*args)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 556, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 532, in send_packed_command
+    self.connect()
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 436, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/bin/nidaba", line 11, in <module>
+    sys.exit(main())
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 700, in __call__
+    return self.main(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 680, in main
+    rv = self.invoke(ctx)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 1027, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 873, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/click/core.py", line 508, in invoke
+    return callback(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/cli.py", line 367, in status
+    batch = SimpleBatch(job_id)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/nidaba.py", line 539, in __init__
+    super(SimpleBatch, self).__init__(id)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/nidaba.py", line 166, in __init__
+    pipe.watch(self.id)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/client.py", line 2601, in watch
+    return self.execute_command('WATCH', *names)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/client.py", line 2394, in execute_command
+    return self.immediate_execute_command(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/client.py", line 2421, in immediate_execute_command
+    conn.send_command(*args)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 556, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 532, in send_packed_command
+    self.connect()
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 436, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.

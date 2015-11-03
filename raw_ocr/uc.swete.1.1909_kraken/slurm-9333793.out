@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.19 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha004: [1;32mOK[0m
+kraken greek /cluster/tufts/perseus_ocr/nidaba/Swete/uc.swete.1.1909 png 55140 10
+Fr 30. Okt 05:21:03 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+a7242091-e654-4b76-bd72-5f395d6940d4
+Fr 30. Okt 20:44:17 EDT 2015

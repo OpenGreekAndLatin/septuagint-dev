@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>uc.swete.1.1901.pdf-005-016.pbm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>kraken</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="2944" lry="4602" ulx="0" uly="0">
+      <graphic url="dbbba514-dd5a-4b52-b23c-7be6cdba5084/uc.swete.1.1901.pdf-005-016.pbm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png"/>
+      <zone/>
+      <line lrx="436" lry="1912" ulx="137" uly="974" xml:id="line_0" resp="#resp_0">
+        </line>
+      <line lrx="2869" lry="4586" ulx="1940" uly="4118" xml:id="line_1" resp="#resp_0">
+        <choice><sic><zone lrx="1973" lry="4586" type="segment" ulx="1940" uly="4118" xml:id="seg_0" resp="#resp_1"><zone lrx="1973" lry="4586" resp="#resp_1" type="grapheme" ulx="1940" uly="4118"><seg><g xml:id="grapheme_0" resp="#resp_1">.</g></seg><certainty degree="0.34" locus="value" target="#grapheme_0" resp="#resp_1"/></zone></zone></sic><corr resp="#resp_2"><certainty degree="0.90" locus="value" resp="#resp_2"/></corr></choice></line>
+    </surface>
+  </sourceDoc>
+</TEI>
