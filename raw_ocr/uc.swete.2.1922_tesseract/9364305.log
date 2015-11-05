@@ -1,0 +1,1099 @@
+[2015-11-04 08:13:23,540: WARNING/MainProcess] worker@alpha016 ready.
+[2015-11-04 08:52:51,417: ERROR/Worker-13] nidaba.segmentation.tesseract[96aac94f-1c08-470c-a5f4-f8c968221729]: Tesseract killed by signal: 11
+[2015-11-04 08:52:53,212: ERROR/MainProcess] Task nidaba.segmentation.tesseract[96aac94f-1c08-470c-a5f4-f8c968221729] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 08:53:29,950: ERROR/Worker-13] nidaba.segmentation.tesseract[4ba0d3e3-7fcb-48e3-b143-65686bf084fc]: Tesseract killed by signal: 11
+[2015-11-04 08:53:44,805: ERROR/MainProcess] Task nidaba.segmentation.tesseract[4ba0d3e3-7fcb-48e3-b143-65686bf084fc] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:09:46,340: ERROR/Worker-23] nidaba.segmentation.tesseract[63d57cce-1973-406c-ab21-cc6ae548b7c4]: Tesseract killed by signal: 11
+[2015-11-04 09:09:49,181: ERROR/MainProcess] Task nidaba.segmentation.tesseract[63d57cce-1973-406c-ab21-cc6ae548b7c4] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:10:30,447: ERROR/Worker-19] nidaba.segmentation.tesseract[a8750b17-f4bb-43e6-88b9-582fc59357c3]: Tesseract killed by signal: 11
+[2015-11-04 09:10:33,874: ERROR/MainProcess] Task nidaba.segmentation.tesseract[a8750b17-f4bb-43e6-88b9-582fc59357c3] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:24:16,817: ERROR/Worker-2] nidaba.ocr.tesseract[1f3dfd75-1233-4414-8048-66a50020114c]: Tesseract killed by signal: 11
+[2015-11-04 09:24:17,863: ERROR/MainProcess] Task nidaba.ocr.tesseract[1f3dfd75-1233-4414-8048-66a50020114c] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:24:29,021: ERROR/Worker-15] nidaba.ocr.tesseract[04b881c0-391e-4102-b6e2-92ab33ceecd0]: Tesseract killed by signal: 11
+[2015-11-04 09:24:30,465: ERROR/MainProcess] Task nidaba.ocr.tesseract[04b881c0-391e-4102-b6e2-92ab33ceecd0] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:25:04,839: ERROR/Worker-18] nidaba.ocr.tesseract[31b4c84a-7758-43e5-898f-5a911acdd444]: Tesseract killed by signal: 11
+[2015-11-04 09:25:05,871: ERROR/MainProcess] Task nidaba.ocr.tesseract[31b4c84a-7758-43e5-898f-5a911acdd444] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:35:38,651: ERROR/Worker-16] nidaba.ocr.tesseract[57b4e0cf-17d3-45d4-acb9-ea652d007751]: Tesseract killed by signal: 11
+[2015-11-04 09:35:39,584: ERROR/MainProcess] Task nidaba.ocr.tesseract[57b4e0cf-17d3-45d4-acb9-ea652d007751] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:38:29,258: ERROR/Worker-13] nidaba.ocr.tesseract[99d7b6e4-3297-422c-8813-4bd64d3096f4]: Tesseract killed by signal: 11
+[2015-11-04 09:38:31,515: ERROR/MainProcess] Task nidaba.ocr.tesseract[99d7b6e4-3297-422c-8813-4bd64d3096f4] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:40:37,285: ERROR/Worker-11] nidaba.ocr.tesseract[70deb27b-86fa-4e39-be16-62984dc52711]: Tesseract killed by signal: 11
+[2015-11-04 09:40:38,235: ERROR/MainProcess] Task nidaba.ocr.tesseract[70deb27b-86fa-4e39-be16-62984dc52711] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:45:58,185: ERROR/Worker-39] nidaba.ocr.tesseract[fb950d1b-4a5e-4ef5-bb19-b3ead00e2dcd]: Tesseract killed by signal: 11
+[2015-11-04 09:46:01,375: ERROR/MainProcess] Task nidaba.ocr.tesseract[fb950d1b-4a5e-4ef5-bb19-b3ead00e2dcd] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:55:37,688: ERROR/Worker-33] nidaba.ocr.tesseract[e4ff4260-6235-4260-bef4-fbdffc0bb14d]: Tesseract killed by signal: 11
+[2015-11-04 09:55:38,923: ERROR/MainProcess] Task nidaba.ocr.tesseract[e4ff4260-6235-4260-bef4-fbdffc0bb14d] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:00:24,346: ERROR/Worker-11] nidaba.ocr.tesseract[282925aa-f61b-481a-8e81-1273feb3f868]: Tesseract killed by signal: 11
+[2015-11-04 10:00:25,374: ERROR/MainProcess] Task nidaba.ocr.tesseract[282925aa-f61b-481a-8e81-1273feb3f868] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:02:06,884: ERROR/Worker-24] nidaba.ocr.tesseract[dd7f0024-ac5d-4298-b254-d4d293695044]: Tesseract killed by signal: 11
+[2015-11-04 10:02:08,209: ERROR/MainProcess] Task nidaba.ocr.tesseract[dd7f0024-ac5d-4298-b254-d4d293695044] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:05:50,473: ERROR/Worker-37] nidaba.ocr.tesseract[ca42b362-5c98-46ac-b1ff-ed3edd739c41]: Tesseract killed by signal: 11
+[2015-11-04 10:05:51,502: ERROR/MainProcess] Task nidaba.ocr.tesseract[ca42b362-5c98-46ac-b1ff-ed3edd739c41] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:07:24,027: ERROR/Worker-34] nidaba.ocr.tesseract[cae757cd-8e84-46ea-bf8c-5b25f70f990d]: Tesseract killed by signal: 11
+[2015-11-04 10:07:25,266: ERROR/MainProcess] Task nidaba.ocr.tesseract[cae757cd-8e84-46ea-bf8c-5b25f70f990d] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:08:34,177: ERROR/Worker-8] nidaba.ocr.tesseract[b41407cd-3cc1-4b3e-a97d-093acb542b14]: Tesseract killed by signal: 11
+[2015-11-04 10:08:35,150: ERROR/MainProcess] Task nidaba.ocr.tesseract[b41407cd-3cc1-4b3e-a97d-093acb542b14] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:09:10,961: ERROR/Worker-6] nidaba.ocr.tesseract[1eaecb26-c31d-43ec-b448-c688a7bb89a2]: Tesseract killed by signal: 11
+[2015-11-04 10:09:11,999: ERROR/MainProcess] Task nidaba.ocr.tesseract[1eaecb26-c31d-43ec-b448-c688a7bb89a2] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:09:34,958: ERROR/Worker-2] nidaba.ocr.tesseract[fab486b9-06e0-4bec-9a8c-6767d0fc2130]: Tesseract killed by signal: 11
+[2015-11-04 10:09:37,607: ERROR/MainProcess] Task nidaba.ocr.tesseract[fab486b9-06e0-4bec-9a8c-6767d0fc2130] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:09:50,936: ERROR/Worker-12] nidaba.ocr.tesseract[66e12780-4e3e-490a-bf81-6ac95e213065]: Tesseract killed by signal: 11
+[2015-11-04 10:09:51,977: ERROR/MainProcess] Task nidaba.ocr.tesseract[66e12780-4e3e-490a-bf81-6ac95e213065] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:12:23,915: ERROR/Worker-20] nidaba.ocr.tesseract[6e841262-cca8-4e12-92bf-343d157146f7]: Tesseract killed by signal: 11
+[2015-11-04 10:12:24,866: ERROR/MainProcess] Task nidaba.ocr.tesseract[6e841262-cca8-4e12-92bf-343d157146f7] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:17:15,396: ERROR/Worker-1] nidaba.ocr.tesseract[eb608d8e-306c-414c-8b95-d6fabae26929]: Tesseract killed by signal: 11
+[2015-11-04 10:17:16,368: ERROR/MainProcess] Task nidaba.ocr.tesseract[eb608d8e-306c-414c-8b95-d6fabae26929] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:17:35,814: ERROR/Worker-23] nidaba.ocr.tesseract[d6fd287d-a813-4575-b18c-5b14a4e9de87]: Tesseract killed by signal: 11
+[2015-11-04 10:17:36,850: ERROR/MainProcess] Task nidaba.ocr.tesseract[d6fd287d-a813-4575-b18c-5b14a4e9de87] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:17:42,621: ERROR/Worker-25] nidaba.ocr.tesseract[4614a20e-cf2f-40fd-af8e-0cd0ff0cc553]: Tesseract killed by signal: 11
+[2015-11-04 10:17:43,659: ERROR/MainProcess] Task nidaba.ocr.tesseract[4614a20e-cf2f-40fd-af8e-0cd0ff0cc553] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:20:08,212: ERROR/Worker-17] nidaba.ocr.tesseract[18ce8b14-51bd-4d32-9039-29d743746755]: Tesseract killed by signal: 11
+[2015-11-04 10:20:09,253: ERROR/MainProcess] Task nidaba.ocr.tesseract[18ce8b14-51bd-4d32-9039-29d743746755] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:22:33,252: ERROR/Worker-35] nidaba.ocr.tesseract[08eab4ba-8bae-4ea4-a8ee-f1eee6c88f1f]: Tesseract killed by signal: 11
+[2015-11-04 10:22:34,280: ERROR/MainProcess] Task nidaba.ocr.tesseract[08eab4ba-8bae-4ea4-a8ee-f1eee6c88f1f] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:22:37,751: ERROR/Worker-9] nidaba.ocr.tesseract[17fc2e8f-408b-4112-b36a-b19708265a17]: Tesseract killed by signal: 11
+[2015-11-04 10:22:38,796: ERROR/MainProcess] Task nidaba.ocr.tesseract[17fc2e8f-408b-4112-b36a-b19708265a17] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:23:09,223: ERROR/Worker-22] nidaba.ocr.tesseract[496a43e4-d44b-4ff2-9158-96543b340eb8]: Tesseract killed by signal: 11
+[2015-11-04 10:23:10,498: ERROR/MainProcess] Task nidaba.ocr.tesseract[496a43e4-d44b-4ff2-9158-96543b340eb8] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:23:38,842: ERROR/Worker-20] nidaba.ocr.tesseract[cd81c0bc-457c-4d6d-b867-e4364dd01804]: Tesseract killed by signal: 11
+[2015-11-04 10:23:39,888: ERROR/MainProcess] Task nidaba.ocr.tesseract[cd81c0bc-457c-4d6d-b867-e4364dd01804] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:24:38,057: ERROR/Worker-11] nidaba.ocr.tesseract[a813b2cf-e1ba-4264-9716-69ccb3c5fd52]: Tesseract killed by signal: 11
+[2015-11-04 10:24:39,062: ERROR/MainProcess] Task nidaba.ocr.tesseract[a813b2cf-e1ba-4264-9716-69ccb3c5fd52] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:25:25,067: ERROR/Worker-35] nidaba.ocr.tesseract[4247ac36-f1ee-4510-97a1-64d2f201d829]: Tesseract killed by signal: 11
+[2015-11-04 10:25:27,535: ERROR/MainProcess] Task nidaba.ocr.tesseract[4247ac36-f1ee-4510-97a1-64d2f201d829] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:31:12,225: ERROR/Worker-14] nidaba.ocr.tesseract[4a3b9651-4aa6-4daa-9f88-04939b5a8a21]: Tesseract killed by signal: 11
+[2015-11-04 10:31:14,249: ERROR/MainProcess] Task nidaba.ocr.tesseract[4a3b9651-4aa6-4daa-9f88-04939b5a8a21] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:31:57,616: ERROR/Worker-30] nidaba.ocr.tesseract[df17dedb-d27c-4a74-96bd-8d4e0d818e18]: Tesseract killed by signal: 11
+[2015-11-04 10:31:58,570: ERROR/MainProcess] Task nidaba.ocr.tesseract[df17dedb-d27c-4a74-96bd-8d4e0d818e18] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:32:30,608: ERROR/Worker-6] nidaba.ocr.tesseract[d4783701-512b-4622-a62b-66499ca959ad]: Tesseract killed by signal: 11
+[2015-11-04 10:32:31,659: ERROR/MainProcess] Task nidaba.ocr.tesseract[d4783701-512b-4622-a62b-66499ca959ad] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:35:52,386: ERROR/Worker-18] nidaba.ocr.tesseract[354aef9d-e793-4a92-a1df-409d6234cb02]: Tesseract killed by signal: 11
+[2015-11-04 10:35:53,360: ERROR/MainProcess] Task nidaba.ocr.tesseract[354aef9d-e793-4a92-a1df-409d6234cb02] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:35:54,363: ERROR/Worker-36] nidaba.ocr.tesseract[779b1265-d672-4e37-ab5e-57d3beda15fc]: Tesseract killed by signal: 11
+[2015-11-04 10:35:56,370: ERROR/MainProcess] Task nidaba.ocr.tesseract[779b1265-d672-4e37-ab5e-57d3beda15fc] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:36:02,375: ERROR/Worker-12] nidaba.ocr.tesseract[300cba4d-e0cf-44e8-b535-8219e12d5c67]: Tesseract killed by signal: 11
+[2015-11-04 10:36:03,338: ERROR/MainProcess] Task nidaba.ocr.tesseract[300cba4d-e0cf-44e8-b535-8219e12d5c67] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:37:56,161: ERROR/Worker-27] nidaba.ocr.tesseract[41436c33-3105-4a97-98f7-b884df4aad4c]: Tesseract killed by signal: 11
+[2015-11-04 10:37:57,212: ERROR/MainProcess] Task nidaba.ocr.tesseract[41436c33-3105-4a97-98f7-b884df4aad4c] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:41:17,984: ERROR/Worker-4] nidaba.ocr.tesseract[01bc4586-2b2b-4094-9703-2b2fcc7983c4]: Tesseract killed by signal: 11
+[2015-11-04 10:41:19,029: ERROR/MainProcess] Task nidaba.ocr.tesseract[01bc4586-2b2b-4094-9703-2b2fcc7983c4] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:41:30,175: ERROR/Worker-30] nidaba.ocr.tesseract[14c5c97d-83ca-45e8-bd93-87798ed2fbb3]: Tesseract killed by signal: 11
+[2015-11-04 10:41:32,287: ERROR/MainProcess] Task nidaba.ocr.tesseract[14c5c97d-83ca-45e8-bd93-87798ed2fbb3] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:41:41,641: ERROR/Worker-40] nidaba.ocr.tesseract[1fde6420-3928-43f4-a681-460f0880f52b]: Tesseract killed by signal: 11
+[2015-11-04 10:41:42,622: ERROR/MainProcess] Task nidaba.ocr.tesseract[1fde6420-3928-43f4-a681-460f0880f52b] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:42:00,568: ERROR/Worker-5] nidaba.ocr.tesseract[4b733e05-5bf9-4340-9fed-907d29982e2f]: Tesseract killed by signal: 11
+[2015-11-04 10:42:01,720: ERROR/MainProcess] Task nidaba.ocr.tesseract[4b733e05-5bf9-4340-9fed-907d29982e2f] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:43:58,455: ERROR/Worker-8] nidaba.ocr.tesseract[df568a06-acf4-4883-b25a-5a2c1761ac40]: Tesseract killed by signal: 11
+[2015-11-04 10:43:59,480: ERROR/MainProcess] Task nidaba.ocr.tesseract[df568a06-acf4-4883-b25a-5a2c1761ac40] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:44:36,101: ERROR/Worker-21] nidaba.ocr.tesseract[bb2d8bbf-30a0-4b51-b366-b10a5a2e58b7]: Tesseract killed by signal: 11
+[2015-11-04 10:44:37,173: ERROR/MainProcess] Task nidaba.ocr.tesseract[bb2d8bbf-30a0-4b51-b366-b10a5a2e58b7] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:53:56,091: ERROR/Worker-25] nidaba.ocr.tesseract[30b42b70-1fca-46f2-bd46-7c3dd2f3c833]: Tesseract killed by signal: 11
+[2015-11-04 10:53:57,140: ERROR/MainProcess] Task nidaba.ocr.tesseract[30b42b70-1fca-46f2-bd46-7c3dd2f3c833] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:54:09,281: ERROR/Worker-37] nidaba.ocr.tesseract[b2e06fc7-f6fc-40f3-bab6-0bd277cd4bd3]: Tesseract killed by signal: 11
+[2015-11-04 10:54:10,847: ERROR/MainProcess] Task nidaba.ocr.tesseract[b2e06fc7-f6fc-40f3-bab6-0bd277cd4bd3] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:55:39,032: ERROR/Worker-12] nidaba.ocr.tesseract[23f45607-309b-4ede-97f7-e058e68958a8]: Tesseract killed by signal: 11
+[2015-11-04 10:55:40,130: ERROR/MainProcess] Task nidaba.ocr.tesseract[23f45607-309b-4ede-97f7-e058e68958a8] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:57:10,209: ERROR/Worker-21] nidaba.ocr.tesseract[1a107e5c-fbe4-4469-b6c9-897f6823a01c]: Tesseract killed by signal: 11
+[2015-11-04 10:57:11,592: ERROR/MainProcess] Task nidaba.ocr.tesseract[1a107e5c-fbe4-4469-b6c9-897f6823a01c] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:57:52,904: ERROR/Worker-30] nidaba.ocr.tesseract[65fc861e-345b-42fc-ab72-31f70be59e59]: Tesseract killed by signal: 11
+[2015-11-04 10:57:53,872: ERROR/MainProcess] Task nidaba.ocr.tesseract[65fc861e-345b-42fc-ab72-31f70be59e59] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:04:33,238: ERROR/Worker-10] nidaba.ocr.tesseract[6e93f2b2-673e-4118-9462-465f5ecf7577]: Tesseract killed by signal: 11
+[2015-11-04 11:04:34,592: ERROR/MainProcess] Task nidaba.ocr.tesseract[6e93f2b2-673e-4118-9462-465f5ecf7577] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:06:25,871: ERROR/Worker-40] nidaba.ocr.tesseract[5c125458-b6ef-4f32-a76f-1c2a58fa8b74]: Tesseract killed by signal: 11
+[2015-11-04 11:06:27,353: ERROR/MainProcess] Task nidaba.ocr.tesseract[5c125458-b6ef-4f32-a76f-1c2a58fa8b74] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:12:28,710: ERROR/Worker-14] nidaba.ocr.tesseract[69e1e99a-0e3e-4b09-8c8d-997944bea19c]: Tesseract killed by signal: 11
+[2015-11-04 11:12:29,931: ERROR/MainProcess] Task nidaba.ocr.tesseract[69e1e99a-0e3e-4b09-8c8d-997944bea19c] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:14:16,629: ERROR/Worker-37] nidaba.ocr.tesseract[a4838293-095d-4ac1-adbd-2bc214ff3d05]: Tesseract killed by signal: 11
+[2015-11-04 11:14:18,059: ERROR/MainProcess] Task nidaba.ocr.tesseract[a4838293-095d-4ac1-adbd-2bc214ff3d05] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:16:27,666: ERROR/Worker-10] nidaba.ocr.tesseract[50ab5c98-c0a8-4b26-be66-0fb889ee1ab9]: Tesseract killed by signal: 11
+[2015-11-04 11:16:28,701: ERROR/MainProcess] Task nidaba.ocr.tesseract[50ab5c98-c0a8-4b26-be66-0fb889ee1ab9] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:19:46,432: ERROR/Worker-35] nidaba.ocr.tesseract[666de481-a7e3-40da-8454-3a73fc057f1a]: Tesseract killed by signal: 11
+[2015-11-04 11:19:47,875: ERROR/MainProcess] Task nidaba.ocr.tesseract[666de481-a7e3-40da-8454-3a73fc057f1a] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:20:50,335: ERROR/Worker-38] nidaba.ocr.tesseract[f8b9ae14-3dab-433a-ac52-3995b21faebc]: Tesseract killed by signal: 11
+[2015-11-04 11:20:51,679: ERROR/MainProcess] Task nidaba.ocr.tesseract[f8b9ae14-3dab-433a-ac52-3995b21faebc] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:24:14,265: ERROR/Worker-18] nidaba.ocr.tesseract[04e7936a-2b1c-44ee-8f25-c9584e1b8984]: Tesseract killed by signal: 11
+[2015-11-04 11:24:15,454: ERROR/MainProcess] Task nidaba.ocr.tesseract[04e7936a-2b1c-44ee-8f25-c9584e1b8984] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:24:55,259: ERROR/Worker-4] nidaba.ocr.tesseract[3175a83a-fa51-488e-97f4-21a83f09a90c]: Tesseract killed by signal: 11
+[2015-11-04 11:24:56,500: ERROR/MainProcess] Task nidaba.ocr.tesseract[3175a83a-fa51-488e-97f4-21a83f09a90c] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:25:12,439: ERROR/Worker-26] nidaba.ocr.tesseract[f84a0f23-34b0-40c6-ba4e-b316e80ffd6b]: Tesseract killed by signal: 11
+[2015-11-04 11:25:13,851: ERROR/MainProcess] Task nidaba.ocr.tesseract[f84a0f23-34b0-40c6-ba4e-b316e80ffd6b] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:26:35,951: ERROR/Worker-29] nidaba.ocr.tesseract[20176cd2-13e5-413d-952a-829d0f60e75b]: Tesseract killed by signal: 11
+[2015-11-04 11:26:37,303: ERROR/MainProcess] Task nidaba.ocr.tesseract[20176cd2-13e5-413d-952a-829d0f60e75b] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:30:23,719: ERROR/Worker-5] nidaba.ocr.tesseract[96b8daf7-9d8f-42b1-8c62-1e6099b969fa]: Tesseract killed by signal: 11
+[2015-11-04 11:30:24,688: ERROR/MainProcess] Task nidaba.ocr.tesseract[96b8daf7-9d8f-42b1-8c62-1e6099b969fa] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:36:31,675: ERROR/Worker-1] nidaba.ocr.tesseract[2f57f79f-8ecc-4c7a-9fd7-cd687e52c31c]: Tesseract killed by signal: 11
+[2015-11-04 11:36:32,907: ERROR/MainProcess] Task nidaba.ocr.tesseract[2f57f79f-8ecc-4c7a-9fd7-cd687e52c31c] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:39:44,277: ERROR/Worker-35] nidaba.ocr.tesseract[23ee1991-26d5-4f9b-b40c-27cbed9fca0f]: Tesseract killed by signal: 11
+[2015-11-04 11:39:45,330: ERROR/MainProcess] Task nidaba.ocr.tesseract[23ee1991-26d5-4f9b-b40c-27cbed9fca0f] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:42:41,007: ERROR/Worker-34] nidaba.ocr.tesseract[d1477ddb-83b0-4c20-9dc9-dcf1bb68c33b]: Tesseract killed by signal: 11
+[2015-11-04 11:42:42,031: ERROR/MainProcess] Task nidaba.ocr.tesseract[d1477ddb-83b0-4c20-9dc9-dcf1bb68c33b] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:43:59,364: ERROR/Worker-39] nidaba.ocr.tesseract[3a88b9c0-a5e9-4a66-973a-e42772c58658]: Tesseract killed by signal: 11
+[2015-11-04 11:44:00,733: ERROR/MainProcess] Task nidaba.ocr.tesseract[3a88b9c0-a5e9-4a66-973a-e42772c58658] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:44:11,501: ERROR/Worker-1] nidaba.ocr.tesseract[28ef3084-8991-4a91-88cf-352412e6fe02]: Tesseract killed by signal: 11
+[2015-11-04 11:44:13,209: ERROR/Worker-11] nidaba.ocr.tesseract[44662d0f-078c-427f-9f08-9aebeeff76e4]: Tesseract killed by signal: 11
+[2015-11-04 11:44:16,278: ERROR/MainProcess] Task nidaba.ocr.tesseract[44662d0f-078c-427f-9f08-9aebeeff76e4] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:44:17,120: ERROR/MainProcess] Task nidaba.ocr.tesseract[28ef3084-8991-4a91-88cf-352412e6fe02] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:48:24,191: ERROR/Worker-30] nidaba.ocr.tesseract[ee7237b0-ac74-45cc-981f-6ed42e74f41a]: Tesseract killed by signal: 11
+[2015-11-04 11:48:25,492: ERROR/MainProcess] Task nidaba.ocr.tesseract[ee7237b0-ac74-45cc-981f-6ed42e74f41a] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:53:02,355: ERROR/Worker-31] nidaba.ocr.tesseract[268a1185-6ed9-46b7-a9b8-d49791f899d6]: Tesseract killed by signal: 11
+[2015-11-04 11:53:03,646: ERROR/MainProcess] Task nidaba.ocr.tesseract[268a1185-6ed9-46b7-a9b8-d49791f899d6] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:57:05,859: ERROR/Worker-5] nidaba.ocr.tesseract[1613a727-6d67-4091-9da5-b21d49efd958]: Tesseract killed by signal: 11
+[2015-11-04 11:57:06,910: ERROR/MainProcess] Task nidaba.ocr.tesseract[1613a727-6d67-4091-9da5-b21d49efd958] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:59:24,366: ERROR/Worker-25] nidaba.ocr.tesseract[35c961f4-6862-4c0f-9081-9dad8e63776c]: Tesseract killed by signal: 11
+[2015-11-04 11:59:25,557: ERROR/MainProcess] Task nidaba.ocr.tesseract[35c961f4-6862-4c0f-9081-9dad8e63776c] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:02:36,025: ERROR/Worker-12] nidaba.ocr.tesseract[9489cd17-22de-4e07-86e1-81dc424bae63]: Tesseract killed by signal: 11
+[2015-11-04 12:02:37,353: ERROR/MainProcess] Task nidaba.ocr.tesseract[9489cd17-22de-4e07-86e1-81dc424bae63] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:07:19,062: ERROR/Worker-30] nidaba.ocr.tesseract[a3d53908-de6c-4f7a-8788-c9bc9ee3df90]: Tesseract killed by signal: 11
+[2015-11-04 12:07:20,059: ERROR/MainProcess] Task nidaba.ocr.tesseract[a3d53908-de6c-4f7a-8788-c9bc9ee3df90] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:12:16,667: ERROR/Worker-13] nidaba.ocr.tesseract[eeabe0c3-1685-4c61-a393-028bb3f941cb]: Tesseract killed by signal: 11
+[2015-11-04 12:12:17,729: ERROR/MainProcess] Task nidaba.ocr.tesseract[eeabe0c3-1685-4c61-a393-028bb3f941cb] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:14:34,368: ERROR/Worker-21] nidaba.ocr.tesseract[0b130054-a586-4242-8913-ffb65a2d5f2f]: Tesseract killed by signal: 11
+[2015-11-04 12:14:35,415: ERROR/MainProcess] Task nidaba.ocr.tesseract[0b130054-a586-4242-8913-ffb65a2d5f2f] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:15:09,296: ERROR/Worker-37] nidaba.ocr.tesseract[caa9a8c3-8088-4c3b-9206-2813e5389c30]: Tesseract killed by signal: 11
+[2015-11-04 12:15:10,286: ERROR/MainProcess] Task nidaba.ocr.tesseract[caa9a8c3-8088-4c3b-9206-2813e5389c30] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:17:58,430: ERROR/Worker-10] nidaba.ocr.tesseract[8d619083-4f6b-4c0b-8c35-f3e8af0aea83]: Tesseract killed by signal: 11
+[2015-11-04 12:17:59,746: ERROR/MainProcess] Task nidaba.ocr.tesseract[8d619083-4f6b-4c0b-8c35-f3e8af0aea83] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:25:00,358: ERROR/Worker-39] nidaba.ocr.tesseract[a37e4814-5163-43c1-98fb-f4cc1fb13add]: Tesseract killed by signal: 11
+[2015-11-04 12:25:01,117: ERROR/MainProcess] Task nidaba.ocr.tesseract[a37e4814-5163-43c1-98fb-f4cc1fb13add] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:26:22,970: ERROR/Worker-12] nidaba.ocr.tesseract[7704af50-9cd8-4a17-8581-816769984e41]: Tesseract killed by signal: 11
+[2015-11-04 12:26:24,049: ERROR/MainProcess] Task nidaba.ocr.tesseract[7704af50-9cd8-4a17-8581-816769984e41] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11

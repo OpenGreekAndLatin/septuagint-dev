@@ -1,0 +1,13 @@
+hvd.swete.2.1891_kraken	4873/4915 tasks completed.	0.9914547304170905
+njp.swete.2.1922_kraken	4476/4555 tasks completed.	0.9826564215148189
+uc.swete.2.1922_kraken	4445/4485 tasks completed.	0.9910813823857302
+tor.swete.2.1891_kraken	4424/4560 tasks completed.	0.9701754385964912
+uc.swete.3.1912_kraken	5314/5355 tasks completed.	0.99234360410831
+swete_2_1891_kraken	3933/3940 tasks completed.	0.9982233502538072
+njp.swete.3.1912_kraken	4665/4685 tasks completed.	0.9957310565635006
+hvd.swete.1.1901_kraken	3933/3940 tasks completed.	0.9982233502538072
+uc.swete.3.1899_kraken	4693/4720 tasks completed.	0.9942796610169492
+hvd.swete.3.1899_kraken	4794/4830 tasks completed.	0.9925465838509316
+njp.swete.1.1909_kraken	4347/4375 tasks completed.	0.9936
+uc.swete.1.1909_kraken	4589/4595 tasks completed.	0.9986942328618064
+uc.swete.1.1901_kraken	4302/4370 tasks completed.	0.9844393592677345

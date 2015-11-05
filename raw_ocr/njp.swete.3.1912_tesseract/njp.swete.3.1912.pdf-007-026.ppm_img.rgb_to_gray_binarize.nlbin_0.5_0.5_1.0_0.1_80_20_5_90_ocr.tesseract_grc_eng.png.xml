@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>njp.swete.3.1912.pdf-007-026.ppm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>tesseract</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="1383" lry="2190" ulx="0" uly="0">
+      <graphic url="d9ce66e6-50b1-4a64-9a8c-07f4f85354d0/njp.swete.3.1912.pdf-007-026.ppm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png"/>
+      <zone/>
+      <line lrx="249" lry="1690" ulx="199" uly="1639" xml:id="line_0" resp="#resp_0">
+        <zone lrx="249" lry="1690" type="segment" ulx="199" uly="1639" xml:id="seg_0" resp="#resp_1"><certainty degree="0.61" locus="value" target="#seg_0" resp="#resp_1"/><zone lrx="230" lry="1690" resp="#resp_1" type="grapheme" ulx="199" uly="1648"><seg><g xml:id="grapheme_0" resp="#resp_1">4</g></seg><certainty degree="0.61" locus="value" target="#grapheme_0" resp="#resp_1"/></zone><zone lrx="240" lry="1681" resp="#resp_1" type="grapheme" ulx="224" uly="1639"><seg><g xml:id="grapheme_1" resp="#resp_1">i</g></seg><certainty degree="0.62" locus="value" target="#grapheme_1" resp="#resp_1"/></zone><zone lrx="249" lry="1689" resp="#resp_1" type="grapheme" ulx="236" uly="1653"><seg><g xml:id="grapheme_2" resp="#resp_1">:</g></seg><certainty degree="0.86" locus="value" target="#grapheme_2" resp="#resp_1"/></zone></zone></line>
+    </surface>
+  </sourceDoc>
+</TEI>

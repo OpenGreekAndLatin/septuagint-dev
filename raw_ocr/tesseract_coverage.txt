@@ -1,0 +1,14 @@
+uc.swete.1.1901_tesseract	4170/4370 tasks completed.	0.954233409610984
+njp.swete.2.1922_tesseract	4014/4560 tasks completed.	0.8802631578947369
+uc.swete.2.1922_tesseract	4323/4485 tasks completed.	0.9638795986622074
+uc.swete.3.1899_tesseract	4619/4720 tasks completed.	0.9786016949152543
+swete_1_1901_tesseract	3799/4320 tasks completed.	0.8793981481481481
+hvd.swete.3.1899_tesseract	4596/4830 tasks completed.	0.9515527950310559
+swete_2_1891_tesseract	4462/4725 tasks completed.	0.9443386243386244
+hvd.swete.1.1901_tesseract	3769/3940 tasks completed.	0.9565989847715736
+hvd.swete.2.1891_tesseract	4639/4915 tasks completed.	0.9438453713123093
+tor.swete.2.1891_tesseract	4014/4560 tasks completed.	0.8802631578947369
+njp.swete.1.1909_tesseract	4333/4375 tasks completed.	0.9904
+njp.swete.3.1912_tesseract	4593/4685 tasks completed.	0.9803628601921025
+uc.swete.1.1909_tesseract	4489/4595 tasks completed.	0.9769314472252448
+uc.swete.3.1912_tesseract	5124/5355 tasks completed.	0.9568627450980393

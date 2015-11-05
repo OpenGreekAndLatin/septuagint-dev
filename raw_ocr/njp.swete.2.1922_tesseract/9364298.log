@@ -1,0 +1,689 @@
+[2015-11-04 08:13:23,865: WARNING/MainProcess] worker@alpha004 ready.
+[2015-11-04 08:29:07,797: WARNING/Worker-15] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:40:16,907: WARNING/Worker-28] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:19,756: WARNING/Worker-14] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:23,655: WARNING/Worker-2] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:25,505: WARNING/Worker-40] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:26,785: WARNING/Worker-22] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:29,445: WARNING/Worker-3] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:30,039: WARNING/Worker-4] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:41,585: WARNING/Worker-30] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:45,206: WARNING/Worker-5] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:50,228: WARNING/Worker-16] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:54,616: WARNING/Worker-17] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:56,145: WARNING/Worker-31] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:56,526: WARNING/Worker-25] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:56,875: WARNING/Worker-19] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:43:58,105: WARNING/Worker-38] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:02,240: WARNING/Worker-12] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:03,675: WARNING/Worker-21] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:04,053: WARNING/Worker-37] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:07,485: WARNING/Worker-11] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:08,375: WARNING/Worker-8] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:11,385: WARNING/Worker-9] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:19,512: WARNING/Worker-34] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:22,580: WARNING/Worker-13] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:25,611: WARNING/Worker-20] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:26,156: WARNING/Worker-18] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:26,615: WARNING/Worker-6] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:31,080: WARNING/Worker-18] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/binarization.py:64: RuntimeWarning: divide by zero encountered in true_divide
+  flat /= (hi-lo)
+[2015-11-04 08:44:31,080: WARNING/Worker-18] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/binarization.py:64: RuntimeWarning: invalid value encountered in true_divide
+  flat /= (hi-lo)
+[2015-11-04 08:44:31,093: WARNING/Worker-18] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kraken/binarization.py:66: RuntimeWarning: invalid value encountered in greater
+  bin = np.array(255*(flat > threshold), 'B')
+[2015-11-04 08:44:31,443: WARNING/Worker-33] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:34,345: WARNING/Worker-35] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:46,934: WARNING/Worker-23] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:44:59,147: WARNING/Worker-27] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:45:23,715: WARNING/Worker-26] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:45:31,348: WARNING/Worker-7] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:45:41,056: WARNING/Worker-39] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:45:44,406: WARNING/Worker-36] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:46:08,335: WARNING/Worker-1] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:46:49,176: WARNING/Worker-24] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:46:59,266: WARNING/Worker-32] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:47:47,096: WARNING/Worker-10] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 08:48:33,426: WARNING/Worker-29] /cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/scipy/ndimage/interpolation.py:549: UserWarning: From scipy 0.13.0, the output shape of zoom() is calculated with round() instead of int() - for these inputs the size of the returned array has changed.
+  "the returned array has changed.", UserWarning)
+[2015-11-04 09:10:32,591: ERROR/Worker-39] nidaba.segmentation.tesseract[a6295c72-d155-49e3-83bf-8ea97ea0fefe]: Tesseract killed by signal: 11
+[2015-11-04 09:10:49,296: ERROR/MainProcess] Task nidaba.segmentation.tesseract[a6295c72-d155-49e3-83bf-8ea97ea0fefe] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:15:31,565: ERROR/Worker-19] nidaba.segmentation.tesseract[63bdecf5-b1ae-4b79-9df6-2075fdc339d1]: Tesseract killed by signal: 11
+[2015-11-04 09:15:33,044: ERROR/MainProcess] Task nidaba.segmentation.tesseract[63bdecf5-b1ae-4b79-9df6-2075fdc339d1] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:23:35,637: ERROR/Worker-2] nidaba.segmentation.tesseract[38b00640-f998-4641-bb1a-765a1a315f90]: Tesseract killed by signal: 11
+[2015-11-04 09:23:38,401: ERROR/MainProcess] Task nidaba.segmentation.tesseract[38b00640-f998-4641-bb1a-765a1a315f90] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:31:26,692: ERROR/Worker-37] nidaba.segmentation.tesseract[54cefd79-0471-4ccb-90c9-9ce369a12062]: Tesseract killed by signal: 11
+[2015-11-04 09:31:30,288: ERROR/MainProcess] Task nidaba.segmentation.tesseract[54cefd79-0471-4ccb-90c9-9ce369a12062] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:32:33,579: ERROR/Worker-36] nidaba.ocr.tesseract[3871e305-56a8-448f-b391-d95839c15180]: Tesseract killed by signal: 11
+[2015-11-04 09:32:34,390: ERROR/MainProcess] Task nidaba.ocr.tesseract[3871e305-56a8-448f-b391-d95839c15180] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:37:48,306: ERROR/Worker-23] nidaba.segmentation.tesseract[113f0111-e8a8-4cfc-b4fc-749295e18084]: Tesseract killed by signal: 11
+[2015-11-04 09:37:49,401: ERROR/MainProcess] Task nidaba.segmentation.tesseract[113f0111-e8a8-4cfc-b4fc-749295e18084] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 251, in segmentation_tesseract
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 09:38:43,916: ERROR/Worker-20] nidaba.ocr.tesseract[97021d93-2b43-4ecf-8cd2-dc067a460dc3]: Tesseract killed by signal: 11
+[2015-11-04 09:38:44,961: ERROR/MainProcess] Task nidaba.ocr.tesseract[97021d93-2b43-4ecf-8cd2-dc067a460dc3] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:05:55,915: ERROR/Worker-7] nidaba.ocr.tesseract[a8e12357-5eac-48cb-9f0c-2ff3f1aef367]: Tesseract killed by signal: 11
+[2015-11-04 10:05:57,024: ERROR/MainProcess] Task nidaba.ocr.tesseract[a8e12357-5eac-48cb-9f0c-2ff3f1aef367] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:11:12,886: ERROR/Worker-29] nidaba.ocr.tesseract[52afc24b-a259-40d8-afbd-948d4e2a1c40]: Tesseract killed by signal: 11
+[2015-11-04 10:11:13,952: ERROR/MainProcess] Task nidaba.ocr.tesseract[52afc24b-a259-40d8-afbd-948d4e2a1c40] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:17:12,456: ERROR/Worker-3] nidaba.ocr.tesseract[13405a94-00b1-4f3b-9c51-88de7d5cd6b9]: Tesseract killed by signal: 11
+[2015-11-04 10:17:13,567: ERROR/MainProcess] Task nidaba.ocr.tesseract[13405a94-00b1-4f3b-9c51-88de7d5cd6b9] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:24:49,842: ERROR/Worker-11] nidaba.ocr.tesseract[8f395a8d-f606-41be-9a71-e6b787a15c01]: Tesseract killed by signal: 11
+[2015-11-04 10:24:50,908: ERROR/MainProcess] Task nidaba.ocr.tesseract[8f395a8d-f606-41be-9a71-e6b787a15c01] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:29:41,409: ERROR/Worker-34] nidaba.ocr.tesseract[0b1bd9a9-2a91-495d-b175-9033a33e4490]: Tesseract killed by signal: 11
+[2015-11-04 10:29:42,469: ERROR/MainProcess] Task nidaba.ocr.tesseract[0b1bd9a9-2a91-495d-b175-9033a33e4490] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:35:05,127: ERROR/Worker-19] nidaba.ocr.tesseract[85137f87-579e-4a4f-90c0-5868bdabff3e]: Tesseract killed by signal: 11
+[2015-11-04 10:35:06,281: ERROR/MainProcess] Task nidaba.ocr.tesseract[85137f87-579e-4a4f-90c0-5868bdabff3e] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:44:09,127: ERROR/Worker-16] nidaba.ocr.tesseract[f6cff4d1-b5fe-44fa-8210-fa08bd8b70e7]: Tesseract killed by signal: 11
+[2015-11-04 10:44:10,611: ERROR/MainProcess] Task nidaba.ocr.tesseract[f6cff4d1-b5fe-44fa-8210-fa08bd8b70e7] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:46:28,764: ERROR/Worker-18] nidaba.ocr.tesseract[52932817-4f70-4be1-8d63-a2f709bc8c29]: Tesseract killed by signal: 11
+[2015-11-04 10:46:29,910: ERROR/MainProcess] Task nidaba.ocr.tesseract[52932817-4f70-4be1-8d63-a2f709bc8c29] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 10:51:55,342: ERROR/Worker-5] nidaba.ocr.tesseract[439d1389-d7e3-4d31-ba9c-56d1eaacd267]: Tesseract killed by signal: 11
+[2015-11-04 10:51:56,762: ERROR/MainProcess] Task nidaba.ocr.tesseract[439d1389-d7e3-4d31-ba9c-56d1eaacd267] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:04:44,910: ERROR/Worker-23] nidaba.ocr.tesseract[bcc13270-ca6f-4f26-bc8a-249b0b74ff25]: Tesseract killed by signal: 11
+[2015-11-04 11:04:46,097: ERROR/MainProcess] Task nidaba.ocr.tesseract[bcc13270-ca6f-4f26-bc8a-249b0b74ff25] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:05:10,814: ERROR/Worker-21] nidaba.ocr.tesseract[9c04c9d4-0cbc-424a-bfd4-dc86e20834be]: Tesseract killed by signal: 11
+[2015-11-04 11:05:11,951: ERROR/MainProcess] Task nidaba.ocr.tesseract[9c04c9d4-0cbc-424a-bfd4-dc86e20834be] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:06:47,724: ERROR/Worker-27] nidaba.ocr.tesseract[dd56a2c9-86bb-4337-ac39-5837bd83bab2]: Tesseract killed by signal: 11
+[2015-11-04 11:06:48,841: ERROR/MainProcess] Task nidaba.ocr.tesseract[dd56a2c9-86bb-4337-ac39-5837bd83bab2] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:10:04,675: ERROR/Worker-34] nidaba.ocr.tesseract[201f50de-d6a2-4357-b385-9043ae78c056]: Tesseract killed by signal: 11
+[2015-11-04 11:10:05,984: ERROR/MainProcess] Task nidaba.ocr.tesseract[201f50de-d6a2-4357-b385-9043ae78c056] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:13:07,894: ERROR/Worker-11] nidaba.ocr.tesseract[1014337f-332a-4037-8774-8f4bfb7f3d19]: Tesseract killed by signal: 11
+[2015-11-04 11:13:09,036: ERROR/MainProcess] Task nidaba.ocr.tesseract[1014337f-332a-4037-8774-8f4bfb7f3d19] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:27:24,153: ERROR/Worker-23] nidaba.ocr.tesseract[4483b90a-b23a-40cd-8855-0e4e6aed0ed4]: Tesseract killed by signal: 11
+[2015-11-04 11:27:25,291: ERROR/MainProcess] Task nidaba.ocr.tesseract[4483b90a-b23a-40cd-8855-0e4e6aed0ed4] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 11:41:22,365: ERROR/Worker-15] nidaba.ocr.tesseract[eaf2968e-822f-488b-a10c-bb0089baec42]: Tesseract killed by signal: 11
+[2015-11-04 11:41:23,914: ERROR/MainProcess] Task nidaba.ocr.tesseract[eaf2968e-822f-488b-a10c-bb0089baec42] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:12:10,465: ERROR/Worker-8] nidaba.ocr.tesseract[8eca72a9-32a3-4332-8068-68457a7e171d]: Tesseract killed by signal: 11
+[2015-11-04 12:12:12,136: ERROR/MainProcess] Task nidaba.ocr.tesseract[8eca72a9-32a3-4332-8068-68457a7e171d] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:30:38,819: ERROR/Worker-4] nidaba.ocr.tesseract[533b273c-92c3-4ce4-9a98-89e134a17c14]: Tesseract killed by signal: 11
+[2015-11-04 12:30:40,906: ERROR/MainProcess] Task nidaba.ocr.tesseract[533b273c-92c3-4ce4-9a98-89e134a17c14] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 12:40:35,391: ERROR/Worker-6] nidaba.ocr.tesseract[a113a89a-c1cf-4f64-8cb5-a3c3f2c05712]: Tesseract killed by signal: 11
+[2015-11-04 12:40:36,372: ERROR/MainProcess] Task nidaba.ocr.tesseract[a113a89a-c1cf-4f64-8cb5-a3c3f2c05712] raised unexpected: NidabaTesseractException(u'Tesseract killed by signal: 11',)
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 240, in trace_task
+    R = retval = fun(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/tasks/helper.py", line 89, in __call__
+    ret = super(NidabaTask, self).__call__(*args, **nkwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/app/trace.py", line 438, in __protected_call__
+    return self.run(*args, **kwargs)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 393, in ocr_tesseract
+    ocr_capi(image_path, result_path, seg, languages, extended)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/nidaba/plugins/tesseract.py", line 441, in ocr_capi
+    raise NidabaTesseractException('Tesseract killed by signal: {0}'.format(os.WTERMSIG(status)))
+NidabaTesseractException: Tesseract killed by signal: 11
+[2015-11-04 22:53:31,021: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/worker/consumer.py", line 278, in start
+    blueprint.start(self)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/bootsteps.py", line 123, in start
+    step.start(parent)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/worker/consumer.py", line 821, in start
+    c.loop(*c.loop_args())
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/celery/worker/loops.py", line 76, in asynloop
+    next(loop)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kombu/async/hub.py", line 267, in create_loop
+    tick_callback()
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kombu/transport/redis.py", line 947, in on_poll_start
+    cycle_poll_start()
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kombu/transport/redis.py", line 301, in on_poll_start
+    self._register_BRPOP(channel)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kombu/transport/redis.py", line 284, in _register_BRPOP
+    self._register(*ident)
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/kombu/transport/redis.py", line 269, in _register
+    client.connection.connect()
+  File "/cluster/home/mmunso01/envs/nidaba/lib/python2.7/site-packages/redis/connection.py", line 436, in connect
+    raise ConnectionError(self._error_message(e))
+ConnectionError: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+[2015-11-04 22:53:31,050: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+[2015-11-04 22:53:33,054: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 4.00 seconds...
+
+[2015-11-04 22:53:37,060: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 6.00 seconds...
+
+[2015-11-04 22:53:43,069: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 8.00 seconds...
+
+[2015-11-04 22:53:51,080: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 10.00 seconds...
+
+[2015-11-04 22:54:01,092: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 12.00 seconds...
+
+[2015-11-04 22:54:13,106: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 14.00 seconds...
+
+[2015-11-04 22:54:27,121: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 16.00 seconds...
+
+[2015-11-04 22:54:43,139: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 18.00 seconds...
+
+[2015-11-04 22:55:01,159: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 20.00 seconds...
+
+[2015-11-04 22:55:21,182: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 22.00 seconds...
+
+[2015-11-04 22:55:43,208: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 24.00 seconds...
+
+[2015-11-04 22:56:07,236: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 26.00 seconds...
+
+[2015-11-04 22:56:33,267: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 28.00 seconds...
+
+[2015-11-04 22:57:01,298: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 30.00 seconds...
+
+[2015-11-04 22:57:31,330: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 22:58:03,367: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 22:58:35,402: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 22:59:07,435: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 22:59:39,469: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:00:11,504: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:00:43,541: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:01:15,579: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:01:47,616: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:02:19,651: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:02:51,686: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:03:23,722: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:03:55,760: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:04:27,795: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:04:59,829: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:05:31,866: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:06:03,903: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:06:35,941: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:07:07,979: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:07:40,017: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:08:12,055: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:08:44,091: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:09:16,128: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:09:48,164: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:10:20,198: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:10:52,233: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:11:24,268: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:11:56,301: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:12:28,334: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:13:00,369: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:13:32,403: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:14:04,436: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:14:36,471: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:15:08,504: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:15:40,542: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:16:12,579: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:16:44,616: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:17:16,653: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:17:48,691: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:18:20,728: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:18:52,766: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:19:24,803: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:19:56,841: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:20:28,879: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:21:00,917: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:21:32,954: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:22:04,992: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:22:37,026: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:23:09,060: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:23:41,093: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:24:13,127: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:24:45,161: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:25:17,196: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:25:49,233: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:26:21,269: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:26:53,306: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:27:25,343: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:27:57,380: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:28:29,418: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+
+[2015-11-04 23:29:01,455: ERROR/MainProcess] consumer: Cannot connect to redis://127.0.0.1:6379//: Error 111 connecting to 127.0.0.1:6379. Connection refused..
+Trying again in 32.00 seconds...
+

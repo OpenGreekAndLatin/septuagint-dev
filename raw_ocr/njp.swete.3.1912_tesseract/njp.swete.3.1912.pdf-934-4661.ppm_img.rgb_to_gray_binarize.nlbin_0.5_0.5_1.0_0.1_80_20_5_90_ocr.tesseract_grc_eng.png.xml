@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>njp.swete.3.1912.pdf-934-4661.ppm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>tesseract</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="1414" lry="2191" ulx="0" uly="0">
+      <graphic url="d9ce66e6-50b1-4a64-9a8c-07f4f85354d0/njp.swete.3.1912.pdf-934-4661.ppm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png"/>
+      <zone/>
+      <line lrx="1365" lry="2083" ulx="1204" uly="1942" xml:id="line_0" resp="#resp_0">
+        <zone lrx="0" lry="0" resp="#resp_1" type="grapheme" ulx="0" uly="0"><seg><g xml:id="grapheme_0" resp="#resp_1"/></seg></zone></line>
+    </surface>
+  </sourceDoc>
+</TEI>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>uc.swete.3.1912.pdf-1018-5081.pbm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>tesseract</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="2730" lry="4362" ulx="0" uly="0">
+      <graphic url="fe636cd0-c923-4b56-aa01-d1e4692122c4/uc.swete.3.1912.pdf-1018-5081.pbm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png"/>
+      <zone/>
+      <line lrx="1538" lry="2093" ulx="890" uly="2019" xml:id="line_0" resp="#resp_0">
+        <zone lrx="1538" lry="2093" type="segment" ulx="890" uly="2019" xml:id="seg_0" resp="#resp_1"><certainty degree="0.89" locus="value" target="#seg_0" resp="#resp_1"/><zone lrx="964" lry="2090" resp="#resp_1" type="grapheme" ulx="890" uly="2019"><seg><g xml:id="grapheme_0" resp="#resp_1">A</g></seg><certainty degree="0.91" locus="value" target="#grapheme_0" resp="#resp_1"/></zone><zone lrx="1036" lry="2090" resp="#resp_1" type="grapheme" ulx="981" uly="2021"><seg><g xml:id="grapheme_1" resp="#resp_1">P</g></seg><certainty degree="0.93" locus="value" target="#grapheme_1" resp="#resp_1"/></zone><zone lrx="1113" lry="2090" resp="#resp_1" type="grapheme" ulx="1058" uly="2021"><seg><g xml:id="grapheme_2" resp="#resp_1">P</g></seg><certainty degree="0.91" locus="value" target="#grapheme_2" resp="#resp_1"/></zone><zone lrx="1196" lry="2091" resp="#resp_1" type="grapheme" ulx="1131" uly="2022"><seg><g xml:id="grapheme_3" resp="#resp_1">E</g></seg><certainty degree="0.92" locus="value" target="#grapheme_3" resp="#resp_1"/></zone><zone lrx="1288" lry="2091" resp="#resp_1" type="grapheme" ulx="1220" uly="2021"><seg><g xml:id="grapheme_4" resp="#resp_1">N</g></seg><certainty degree="0.92" locus="value" target="#grapheme_4" resp="#resp_1"/></zone><zone lrx="1388" lry="2092" resp="#resp_1" type="grapheme" ulx="1314" uly="2021"><seg><g xml:id="grapheme_5" resp="#resp_1">D</g></seg><certainty degree="0.94" locus="value" target="#grapheme_5" resp="#resp_1"/></zone><zone lrx="1436" lry="2092" resp="#resp_1" type="grapheme" ulx="1408" uly="2022"><seg><g xml:id="grapheme_6" resp="#resp_1">I</g></seg><certainty degree="0.94" locus="value" target="#grapheme_6" resp="#resp_1"/></zone><zone lrx="1538" lry="2093" resp="#resp_1" type="grapheme" ulx="1462" uly="2020"><seg><g xml:id="grapheme_7" resp="#resp_1">X</g></seg><certainty degree="0.89" locus="value" target="#grapheme_7" resp="#resp_1"/></zone></zone></line>
+    </surface>
+  </sourceDoc>
+</TEI>

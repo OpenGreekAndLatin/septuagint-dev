@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>swete_1_1901.pdf-008-023.pbm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>tesseract</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="2040" lry="3392" ulx="0" uly="0">
+      <graphic url="41208aa5-7d02-42e7-a32e-a665dd909fb3/swete_1_1901.pdf-008-023.pbm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png"/>
+      <zone/>
+      <line lrx="1613" lry="1599" ulx="498" uly="1535" xml:id="line_0" resp="#resp_0">
+        <zone lrx="835" lry="1591" type="segment" ulx="498" uly="1536" xml:id="seg_0" resp="#resp_1"><certainty degree="0.64" locus="value" target="#seg_0" resp="#resp_1"/><zone lrx="628" lry="1588" resp="#resp_1" type="grapheme" ulx="498" uly="1536"><seg><g xml:id="grapheme_0" resp="#resp_1">m</g></seg><certainty degree="0.64" locus="value" target="#grapheme_0" resp="#resp_1"/></zone><zone lrx="835" lry="1591" resp="#resp_1" type="grapheme" ulx="638" uly="1539"><seg><g xml:id="grapheme_1" resp="#resp_1">m</g></seg><certainty degree="0.64" locus="value" target="#grapheme_1" resp="#resp_1"/></zone></zone><zone lrx="877" lry="1594" resp="#resp_1" type="grapheme" ulx="835" uly="1537"><seg><g xml:id="grapheme_2" resp="#resp_1"> </g></seg><certainty degree="1.00" locus="value" target="#grapheme_2" resp="#resp_1"/></zone><zone lrx="982" lry="1594" type="segment" ulx="877" uly="1537" xml:id="seg_1" resp="#resp_1"><certainty degree="0.61" locus="value" target="#seg_1" resp="#resp_1"/><zone lrx="938" lry="1590" resp="#resp_1" type="grapheme" ulx="877" uly="1537"><seg><g xml:id="grapheme_3" resp="#resp_1">m</g></seg><certainty degree="0.61" locus="value" target="#grapheme_3" resp="#resp_1"/></zone><zone lrx="982" lry="1594" resp="#resp_1" type="grapheme" ulx="930" uly="1543"><seg><g xml:id="grapheme_4" resp="#resp_1">a</g></seg><certainty degree="0.64" locus="value" target="#grapheme_4" resp="#resp_1"/></zone></zone><zone lrx="1091" lry="1599" resp="#resp_1" type="grapheme" ulx="982" uly="1535"><seg><g xml:id="grapheme_5" resp="#resp_1"> </g></seg><certainty degree="1.00" locus="value" target="#grapheme_5" resp="#resp_1"/></zone><zone lrx="1613" lry="1599" type="segment" ulx="1091" uly="1535" xml:id="seg_2" resp="#resp_1"><certainty degree="0.56" locus="value" target="#seg_2" resp="#resp_1"/><zone lrx="1261" lry="1592" resp="#resp_1" type="grapheme" ulx="1091" uly="1541"><seg><g xml:id="grapheme_6" resp="#resp_1">w</g></seg><certainty degree="0.64" locus="value" target="#grapheme_6" resp="#resp_1"/></zone><zone lrx="1463" lry="1592" resp="#resp_1" type="grapheme" ulx="1268" uly="1540"><seg><g xml:id="grapheme_7" resp="#resp_1">m</g></seg><certainty degree="0.64" locus="value" target="#grapheme_7" resp="#resp_1"/></zone><zone lrx="1503" lry="1588" resp="#resp_1" type="grapheme" ulx="1489" uly="1549"><seg><g xml:id="grapheme_8" resp="#resp_1">v</g></seg><certainty degree="0.69" locus="value" target="#grapheme_8" resp="#resp_1"/></zone><zone lrx="1539" lry="1588" resp="#resp_1" type="grapheme" ulx="1498" uly="1535"><seg><g xml:id="grapheme_9" resp="#resp_1">ﬁ</g></seg><certainty degree="0.61" locus="value" target="#grapheme_9" resp="#resp_1"/></zone><zone lrx="1613" lry="1599" resp="#resp_1" type="grapheme" ulx="1531" uly="1535"><seg><g xml:id="grapheme_10" resp="#resp_1">w</g></seg><certainty degree="0.56" locus="value" target="#grapheme_10" resp="#resp_1"/></zone><zone lrx="1613" lry="1599" resp="#resp_1" type="grapheme" ulx="1531" uly="1535"><seg><g xml:id="grapheme_11" resp="#resp_1"/></seg></zone></zone></line>
+      <line lrx="1309" lry="1665" ulx="817" uly="1599" xml:id="line_1" resp="#resp_0">
+        </line>
+    </surface>
+  </sourceDoc>
+</TEI>

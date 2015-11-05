@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>hvd.swete.2.1891.pdf-923-4606.pbm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>tesseract</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="3400" lry="4670" ulx="0" uly="0">
+      <graphic url="fd5a7b07-0078-4e77-acdd-eec69e60e15a/hvd.swete.2.1891.pdf-923-4606.pbm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png"/>
+      <zone/>
+      <line lrx="2856" lry="4217" ulx="525" uly="563" xml:id="line_0" resp="#resp_0">
+        <zone lrx="2802" lry="3854" type="segment" ulx="601" uly="1015" xml:id="seg_0" resp="#resp_1"><zone lrx="2802" lry="3854" resp="#resp_1" type="grapheme" ulx="604" uly="1015"><seg><g xml:id="grapheme_0" resp="#resp_1"> </g></seg></zone><zone lrx="2802" lry="3854" resp="#resp_1" type="grapheme" ulx="604" uly="1015"><seg><g xml:id="grapheme_1" resp="#resp_1"/></seg></zone><zone lrx="2802" lry="3854" resp="#resp_1" type="grapheme" ulx="604" uly="1015"><seg><g xml:id="grapheme_2" resp="#resp_1"/></seg></zone></zone></line>
+      <line lrx="3400" lry="839" ulx="3398" uly="116" xml:id="line_1" resp="#resp_0">
+        </line>
+      <line lrx="3400" lry="1851" ulx="3398" uly="1346" xml:id="line_2" resp="#resp_0">
+        </line>
+    </surface>
+  </sourceDoc>
+</TEI>

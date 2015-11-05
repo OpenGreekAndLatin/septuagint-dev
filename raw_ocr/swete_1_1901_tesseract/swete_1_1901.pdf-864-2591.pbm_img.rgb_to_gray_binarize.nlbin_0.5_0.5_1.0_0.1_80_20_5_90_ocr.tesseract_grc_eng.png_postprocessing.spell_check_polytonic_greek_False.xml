@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>swete_1_1901.pdf-864-2591.pbm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>tesseract</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="2294" lry="3614" ulx="0" uly="0">
+      <graphic url="41208aa5-7d02-42e7-a32e-a665dd909fb3/swete_1_1901.pdf-864-2591.pbm_img.rgb_to_gray_binarize.nlbin_0.5_0.5_1.0_0.1_80_20_5_90.png"/>
+      <zone/>
+      <line lrx="2294" lry="2809" ulx="1894" uly="0" xml:id="line_0" resp="#resp_0">
+        <zone lrx="0" lry="0" resp="#resp_1" type="grapheme" ulx="0" uly="0"><seg><g xml:id="grapheme_0" resp="#resp_1"/></seg></zone></line>
+    </surface>
+  </sourceDoc>
+</TEI>

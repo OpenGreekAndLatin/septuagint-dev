@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.19 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha012: [1;32mOK[0m
+tesseract [grc,eng],extended=True /cluster/tufts/perseus_ocr/nidaba/Swete/uc.swete.3.1912 png 64260 13
+Mi 4. Nov 08:13:19 EST 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+fe636cd0-c923-4b56-aa01-d1e4692122c4
+Do 5. Nov 02:08:29 EST 2015
